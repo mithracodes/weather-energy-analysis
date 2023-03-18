@@ -1,6 +1,6 @@
 # weather-energy-analysis
 
-This project was my team's submission for ***Assignment 2 of COMP20008 Elements of Data Processing in Sem 1 2022.*** This was done in collaboration with the other members of my team - *William Walker* and *Jack Olivier*. 
+Other Contributors: *William Walker* and *Jack Olivier*
 
 ## Overview
 
@@ -47,3 +47,4 @@ The daily weather observations datasets contained these parameters along with th
 
 The dates on which these parameters were recorded were used to link the Daily Weather Observations and the Aggregated Price and Demand data. Additionally, the total energy demand recorded every 30 minutes in the Aggregated Price and Demand dataset was averaged to reflect the mean energy demand of the entire day for a particular date.
 
+*** Note: This is my team's *Assignment 2 of COMP20008 Elements of Data Processing in Sem 1 2022*. ***
